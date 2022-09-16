@@ -82,11 +82,11 @@
     </build>
          
   <distributionManagement>
-		<repository>
+	<repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/huttonkm/MultipleDbConnections</url>
+      <url>https://maven.pkg.github.com/Kerron-Hutton/MultipleDbConnections</url>
     </repository>
-	</distributionManagement>
+  </distributionManagement>
 
 </project>
