@@ -8,7 +8,7 @@
         <version>2.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.dev</groupId>
+    <groupId>com.dev.huttonkm</groupId>
     <artifactId>MultipleDbConnections</artifactId>
     <version>1.0.4</version>
     <name>MultipleDbConnections</name>
