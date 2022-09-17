@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.dev</groupId>
     <artifactId>MultipleDbConnections</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.4</version>
     <name>MultipleDbConnections</name>
     <description>Demo project for Spring Boot</description>
     <packaging>jar</packaging>
